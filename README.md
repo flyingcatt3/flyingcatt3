@@ -1,8 +1,3 @@
-<!-- Banner：你可以將下方圖片網址換成自己的橫幅 -->
-<p align="center">
-  <img src="https://github.com/flyingcatt3/flyingcatt3/assets/your-banner.png" alt="flyingcatt3 Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Jones 👋</h1>
 <p align="center">
   <b>國立嘉義大學資訊管理學系應屆畢業生 · 軟體測試實習經驗 · 熱愛雲端與後端開發</b>
